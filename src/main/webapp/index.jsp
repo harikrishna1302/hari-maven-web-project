@@ -10,5 +10,6 @@
 <h3> Day 5 test change 2 to test ansible script run </h3>
 <h3> Tested end to end </h3>
 <h3 style="color: blueviolet;"> Testing email notification</h3>
+<h3 style="color: blueviolet;"> Testing Build Failure</h3>
 </body>
 </html>
